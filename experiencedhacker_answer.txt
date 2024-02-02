@@ -1,0 +1,15 @@
+Complicated Script:
+We'll complicate the script by using a technique called obfuscation. 
+It makes the code harder to understand for antivirus programs without changing its functionality.
+(see remote_deletion.py)
+
+Antivirus Bypass Techniques:
+
+We'll explore tools or methods designed to dodge antivirus detection. 
+Some frameworks can modify or encrypt the scripts, making it trickier for antivirus programs to catch them.
+
+Dynamic Compilation:
+
+Instead of having a fixed script, we'll dynamically compile it at runtime. 
+This means the script generates a new form each time it runs, making it less predictable for antivirus programs.
+(see dynamic_compilation.py)
